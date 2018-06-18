@@ -1,0 +1,42 @@
+.navbar {
+    margin-bottom: 0px;
+    background: #3c3f42;
+}
+.navbar-brand{
+    background: skyblue;
+    border-radius:0 0 25px;
+    text-shadow: 2px 2px 8px black;
+}
+.navbar-default .navbar-brand:hover{
+    background: rgb(255, 255, 255);
+    border-radius: 0 25px 0 0  ;
+    color: skyblue;
+}
+.navbar-default .navbar-brand {
+    color: white;
+    
+}
+.navbar-collapse {
+    padding-right: 0px;   
+}    
+.navbar-default .navbar-nav>li>a {
+    color: white; 
+    text-shadow: 2px 2px 8px black;
+    
+}
+.fixTheFont{
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;   
+}
+.nav>li:hover {
+    background: skyblue;
+    border-radius: 50px;
+    
+}
+.navbar-default {   
+    border-color: 2px solid #000000; 
+}
+.navbar-fixed-bottom, .navbar-fixed-top {
+    margin: 0 auto;
+   width: 1170px;
+}

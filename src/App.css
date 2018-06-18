@@ -1,0 +1,21 @@
+.jumbotron {
+  background-color: #188bce;
+  color: white;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 0px;
+  
+}
+.container .jumbotron, .container-fluid .jumbotron {
+  
+  border-radius: 0 0 6px 6px;
+}
+
+.footerHome {
+  background: #188bce;
+  padding-top: 50px;
+  color: white;
+  padding-bottom: 50px;
+  font-weight: bold;
+  text-shadow: 2px 2px 5px black;
+}

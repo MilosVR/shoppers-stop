@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"name": "Chipsy",
+		"cost": 10,
+		"calories": 100,
+		"weight": 200,
+		"img":"./assets/chipsy.png"
+	},
+	{
+		"id": 2,
+		"name": "Medenjaci",
+		"cost": 20,
+		"calories": 100,
+		"weight": 200,
+		"img":"./assets/medenjaci1-SR.png"
+	},
+	{
+		"id": 3,
+		"name": "Nestle",
+		"cost": 10,
+		"calories": 100,
+		"weight": 200,
+		"img":"./assets/nestle.jpg"
+	},
+	{
+		"id": 4,
+		"name": "Snickers",
+		"cost": 30,
+		"calories": 300,
+		"weight": 100,
+		"img":"./assets/snickers.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Stapici",
+		"cost": 10,
+		"calories": 170,
+		"weight": 410,
+		"img":"./assets/stapici.jpg"
+	},
+	{
+		"id": 6,
+		"name": "Twix",
+		"cost": 20,
+		"calories": 140,
+		"weight": 100,
+		"img":"./assets/twix.jpg"
+	}
+]

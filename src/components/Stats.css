@@ -1,0 +1,17 @@
+.col-md-2 {
+    width: 380px;
+    border-radius: 5px;
+    text-align: center;
+}
+.costStyle {
+    color: white;
+    background-color: rgb(38, 170, 82);
+    border: 1px solid #ddd;
+}
+.btn-warning {
+    color: #fff;
+    background-color: #f0ad4e;
+    border-color: #eea236;
+    margin-top: 13px;
+}
+
